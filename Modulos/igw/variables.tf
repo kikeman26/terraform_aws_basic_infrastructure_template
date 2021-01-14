@@ -1,0 +1,1 @@
+variable "Vpc_id_igw_input" {}
