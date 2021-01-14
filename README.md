@@ -1,1 +1,1 @@
-# terraform_aws_basci_infrastructure_template
+# terraform_aws_basic_infrastructure_template
